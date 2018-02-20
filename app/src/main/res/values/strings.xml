@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">我爱中文</string>
+    <string name="title_learn">学习</string>
+    <string name="title_exam">考试</string>
+    <string name="title_user">用户</string>
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="log_in">登陆</string>
+
+    <string name="common_words">常用字学习</string>
+    <string name="learned_words">已学汉字</string>
+    <string name="handwriting_test">书写测试记录</string>
+    <string name="phonetic_test">读音测试记录</string>
+    <string name="task">每日任务</string>
+
+    <string name="username_error">用户名不能为空</string>
+    <string name="password_error">密码不能为空</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_func_basic">FuncBasicActivity</string>
+    <string name="test_start">出题</string>
+    <string name="phonetic_test_history">记录</string>
+</resources>

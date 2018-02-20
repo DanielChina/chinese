@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/phonetic_historoy"
+        android:enabled="true"
+        android:orderInCategory="101"
+        android:title="@string/phonetic_test_history"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/phonetic_test_start"
+        android:enabled="true"
+        android:orderInCategory="102"
+        android:title="@string/test_start"
+        app:showAsAction="always" />
+</menu>

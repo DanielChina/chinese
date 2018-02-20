@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="@dimen/func_margin"
+    android:layout_marginRight="@dimen/func_margin"
+    android:layout_marginTop="@dimen/func_margin"
+    tools:context="test.zx.chinese.myFragment.GridViewFragment">
+    <!-- TODO: Update blank fragment layout -->
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:id="@+id/function_list">
+    </GridView>
+</LinearLayout>
